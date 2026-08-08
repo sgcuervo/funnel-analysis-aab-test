@@ -39,7 +39,7 @@ evaluado es tipográfico y de bajo riesgo.
 1. **El 47% de los usuarios completa todo el proceso hasta el pago.** 
 Las tasas de conversión por etapa revelan dónde está el problema real.
 
-   | Etapa | Usuarios | Conversión a siguiente etapa |
+   | Etapa | Usuarios | Retención desde etapa anterior |
    |---|---|---|
    | MainScreenAppear | 98% | — |
    | OffersScreenAppear | 61% | 62% |
